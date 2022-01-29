@@ -1,0 +1,12 @@
+
+Intrduzindo seu nome e email antes de qualquer operação
+$ git config --global user.name "Seu nome vem aqui" 
+$ git config --global user.email you@yourdomain.example.com
+
+Colocando um projeto sobrevisão do git
+$ tar xzf project.tar.gz 
+$ cd project 
+$ git init
+
+Mostrando o status do seu repositório
+$ git status 
